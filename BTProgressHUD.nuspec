@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
-        <id>BTProgressHUD</id>
+        <id>jz5.BTProgressHUD</id>
         <version>$version$</version>
         <authors>nicwise</authors>
-        <owners>nicwise,ravensorb,redth</owners>
-        <projectUrl>https://github.com/nicwise/BTProgressHUD</projectUrl>
+        <owners>jz5</owners>
+        <projectUrl>https://github.com/jz5/BTProgressHUD</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>SVProgressHUD (and BTProgressHUD) is a clean and easy-to-use HUD meant to display the progress of an ongoing task.</description>
         <summary>Port to MonoTouch of the SVProgressHUD.</summary>
